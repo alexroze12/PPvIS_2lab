@@ -1,0 +1,353 @@
+﻿<?xml version="1.0" ?>
+<pass_table>
+	<pet>
+		<name_of_an_animal>Sam</name_of_an_animal>
+		<date_of_birth>2002-09-24</date_of_birth>
+		<date_of_last_admission>2022-09-24</date_of_last_admission>
+		<FIO_of_veterinary>Alex Werd</FIO_of_veterinary>
+		<diagnosis>healthy</diagnosis>
+	</pet>
+	<pet>
+		<name_of_an_animal>Archie</name_of_an_animal>
+		<date_of_birth>2003-09-24</date_of_birth>
+		<date_of_last_admission>2021-09-24</date_of_last_admission>
+		<FIO_of_veterinary>Boris Dragon</FIO_of_veterinary>
+		<diagnosis>healthy</diagnosis>
+	</pet>
+	<pet>
+		<name_of_an_animal>Alex</name_of_an_animal>
+		<date_of_birth>2019-10-25</date_of_birth>
+		<date_of_last_admission>2022-02-24</date_of_last_admission>
+		<FIO_of_veterinary>Semen Wert</FIO_of_veterinary>
+		<diagnosis>allergy</diagnosis>
+	</pet>
+	<pet>
+		<name_of_an_animal>Corbin</name_of_an_animal>
+		<date_of_birth>2012-09-24</date_of_birth>
+		<date_of_last_admission>2022-01-20</date_of_last_admission>
+		<FIO_of_veterinary>Sara Hansen</FIO_of_veterinary>
+		<diagnosis>allergy</diagnosis>
+	</pet>
+	<pet>
+		<name_of_an_animal>Flash</name_of_an_animal>
+		<date_of_birth>2019-10-30</date_of_birth>
+		<date_of_last_admission>2021-10-15</date_of_last_admission>
+		<FIO_of_veterinary>Flora Tompson</FIO_of_veterinary>
+		<diagnosis>healthy</diagnosis>
+	</pet>
+	<pet>
+		<name_of_an_animal>Bimbo</name_of_an_animal>
+		<date_of_birth>2003-09-15</date_of_birth>
+		<date_of_last_admission>2018-09-24</date_of_last_admission>
+		<FIO_of_veterinary>Vera Skuh</FIO_of_veterinary>
+		<diagnosis>healthy</diagnosis>
+	</pet>
+	<pet>
+		<name_of_an_animal>Jerry</name_of_an_animal>
+		<date_of_birth>2020-09-25</date_of_birth>
+		<date_of_last_admission>2021-08-20</date_of_last_admission>
+		<FIO_of_veterinary>Jordan Messi</FIO_of_veterinary>
+		<diagnosis>insomnia</diagnosis>
+	</pet>
+	<pet>
+		<name_of_an_animal>Calder</name_of_an_animal>
+		<date_of_birth>2019-05-15</date_of_birth>
+		<date_of_last_admission>2019-12-26</date_of_last_admission>
+		<FIO_of_veterinary>Zahar Ter</FIO_of_veterinary>
+		<diagnosis>healthy</diagnosis>
+	</pet>
+	<pet>
+		<name_of_an_animal>Kaydan</name_of_an_animal>
+		<date_of_birth>2019-10-05</date_of_birth>
+		<date_of_last_admission>2020-04-24</date_of_last_admission>
+		<FIO_of_veterinary>Verta Broun</FIO_of_veterinary>
+		<diagnosis>insomnia</diagnosis>
+	</pet>
+	<pet>
+		<name_of_an_animal>Mick</name_of_an_animal>
+		<date_of_birth>2018-03-08</date_of_birth>
+		<date_of_last_admission>2018-12-31</date_of_last_admission>
+		<FIO_of_veterinary>Lera Brut</FIO_of_veterinary>
+		<diagnosis>allergy</diagnosis>
+	</pet>
+	<pet>
+		<name_of_an_animal>Lark</name_of_an_animal>
+		<date_of_birth>2022-01-01</date_of_birth>
+		<date_of_last_admission>2022-04-01</date_of_last_admission>
+		<FIO_of_veterinary>Lora Ferh</FIO_of_veterinary>
+		<diagnosis>healthy</diagnosis>
+	</pet>
+	<pet>
+		<name_of_an_animal>Henry</name_of_an_animal>
+		<date_of_birth>2019-02-26</date_of_birth>
+		<date_of_last_admission>2020-01-15</date_of_last_admission>
+		<FIO_of_veterinary>Alex Cordan</FIO_of_veterinary>
+		<diagnosis>allergy</diagnosis>
+	</pet>
+	<pet>
+		<name_of_an_animal>Hazel</name_of_an_animal>
+		<date_of_birth>2018-09-12</date_of_birth>
+		<date_of_last_admission>2019-09-12</date_of_last_admission>
+		<FIO_of_veterinary>Mihail Klein</FIO_of_veterinary>
+		<diagnosis>healthy</diagnosis>
+	</pet>
+	<pet>
+		<name_of_an_animal>Lipton</name_of_an_animal>
+		<date_of_birth>2017-01-15</date_of_birth>
+		<date_of_last_admission>2017-12-16</date_of_last_admission>
+		<FIO_of_veterinary>Nasty Set</FIO_of_veterinary>
+		<diagnosis>healthy</diagnosis>
+	</pet>
+	<pet>
+		<name_of_an_animal>Neal</name_of_an_animal>
+		<date_of_birth>2015-03-18</date_of_birth>
+		<date_of_last_admission>2019-12-18</date_of_last_admission>
+		<FIO_of_veterinary>Katya Borodich</FIO_of_veterinary>
+		<diagnosis>bronchitis</diagnosis>
+	</pet>
+	<pet>
+		<name_of_an_animal>Oliver</name_of_an_animal>
+		<date_of_birth>2013-10-13</date_of_birth>
+		<date_of_last_admission>2019-10-19</date_of_last_admission>
+		<FIO_of_veterinary>Arina Gric</FIO_of_veterinary>
+		<diagnosis>allergy</diagnosis>
+	</pet>
+	<pet>
+		<name_of_an_animal>Oscar</name_of_an_animal>
+		<date_of_birth>2010-08-05</date_of_birth>
+		<date_of_last_admission>2018-02-02</date_of_last_admission>
+		<FIO_of_veterinary>Sergei Grey</FIO_of_veterinary>
+		<diagnosis>bronchitis</diagnosis>
+	</pet>
+	<pet>
+		<name_of_an_animal>Norman</name_of_an_animal>
+		<date_of_birth>2012-03-28</date_of_birth>
+		<date_of_last_admission>2016-03-30</date_of_last_admission>
+		<FIO_of_veterinary>Egor Mot</FIO_of_veterinary>
+		<diagnosis>insomnia</diagnosis>
+	</pet>
+	<pet>
+		<name_of_an_animal>Ralph</name_of_an_animal>
+		<date_of_birth>2011-10-10</date_of_birth>
+		<date_of_last_admission>2019-10-11</date_of_last_admission>
+		<FIO_of_veterinary>Matt Dog</FIO_of_veterinary>
+		<diagnosis>healthy</diagnosis>
+	</pet>
+	<pet>
+		<name_of_an_animal>Taddle</name_of_an_animal>
+		<date_of_birth>2021-10-24</date_of_birth>
+		<date_of_last_admission>2022-04-02</date_of_last_admission>
+		<FIO_of_veterinary>Saymon Bor</FIO_of_veterinary>
+		<diagnosis>healthy</diagnosis>
+	</pet>
+	<pet>
+		<name_of_an_animal>Otto</name_of_an_animal>
+		<date_of_birth>2021-01-13</date_of_birth>
+		<date_of_last_admission>2022-03-07</date_of_last_admission>
+		<FIO_of_veterinary>Ildar Hat</FIO_of_veterinary>
+		<diagnosis>healthy</diagnosis>
+	</pet>
+	<pet>
+		<name_of_an_animal>Lumpy</name_of_an_animal>
+		<date_of_birth>2019-09-12</date_of_birth>
+		<date_of_last_admission>2020-02-26</date_of_last_admission>
+		<FIO_of_veterinary>Bob Krok</FIO_of_veterinary>
+		<diagnosis>healthy</diagnosis>
+	</pet>
+	<pet>
+		<name_of_an_animal>Rufus</name_of_an_animal>
+		<date_of_birth>2021-06-23</date_of_birth>
+		<date_of_last_admission>2022-02-19</date_of_last_admission>
+		<FIO_of_veterinary>Bib Trey</FIO_of_veterinary>
+		<diagnosis>bronchitis</diagnosis>
+	</pet>
+	<pet>
+		<name_of_an_animal>Milo</name_of_an_animal>
+		<date_of_birth>2018-04-27</date_of_birth>
+		<date_of_last_admission>2019-01-21</date_of_last_admission>
+		<FIO_of_veterinary>Sar Der</FIO_of_veterinary>
+		<diagnosis>healthy</diagnosis>
+	</pet>
+	<pet>
+		<name_of_an_animal>Charlie</name_of_an_animal>
+		<date_of_birth>2017-07-07</date_of_birth>
+		<date_of_last_admission>2018-09-09</date_of_last_admission>
+		<FIO_of_veterinary>Lera Sakk</FIO_of_veterinary>
+		<diagnosis>healthy</diagnosis>
+	</pet>
+	<pet>
+		<name_of_an_animal>Finn</name_of_an_animal>
+		<date_of_birth>2016-10-11</date_of_birth>
+		<date_of_last_admission>2017-12-09</date_of_last_admission>
+		<FIO_of_veterinary>Darya Kulman</FIO_of_veterinary>
+		<diagnosis>healthy</diagnosis>
+	</pet>
+	<pet>
+		<name_of_an_animal>Loki</name_of_an_animal>
+		<date_of_birth>2021-10-16</date_of_birth>
+		<date_of_last_admission>2022-03-09</date_of_last_admission>
+		<FIO_of_veterinary>Arina Flin</FIO_of_veterinary>
+		<diagnosis>healthy</diagnosis>
+	</pet>
+	<pet>
+		<name_of_an_animal>Tucker</name_of_an_animal>
+		<date_of_birth>2020-11-12</date_of_birth>
+		<date_of_last_admission>2021-12-23</date_of_last_admission>
+		<FIO_of_veterinary>Denis Ivanov</FIO_of_veterinary>
+		<diagnosis>bronchitis</diagnosis>
+	</pet>
+	<pet>
+		<name_of_an_animal>Bear</name_of_an_animal>
+		<date_of_birth>2018-11-13</date_of_birth>
+		<date_of_last_admission>2019-11-24</date_of_last_admission>
+		<FIO_of_veterinary>Roman Bobrov</FIO_of_veterinary>
+		<diagnosis>insomnia</diagnosis>
+	</pet>
+	<pet>
+		<name_of_an_animal>Abigail</name_of_an_animal>
+		<date_of_birth>2018-10-14</date_of_birth>
+		<date_of_last_admission>2019-10-16</date_of_last_admission>
+		<FIO_of_veterinary>Stepan Muhin</FIO_of_veterinary>
+		<diagnosis>allergy</diagnosis>
+	</pet>
+	<pet>
+		<name_of_an_animal>Amelli</name_of_an_animal>
+		<date_of_birth>2020-06-29</date_of_birth>
+		<date_of_last_admission>2021-06-27</date_of_last_admission>
+		<FIO_of_veterinary>Kostya Klin</FIO_of_veterinary>
+		<diagnosis>healthy</diagnosis>
+	</pet>
+	<pet>
+		<name_of_an_animal>Ariena</name_of_an_animal>
+		<date_of_birth>2014-08-22</date_of_birth>
+		<date_of_last_admission>2017-11-27</date_of_last_admission>
+		<FIO_of_veterinary>Mihail Men</FIO_of_veterinary>
+		<diagnosis>healthy</diagnosis>
+	</pet>
+	<pet>
+		<name_of_an_animal>Cinnamon</name_of_an_animal>
+		<date_of_birth>2011-07-21</date_of_birth>
+		<date_of_last_admission>2016-08-02</date_of_last_admission>
+		<FIO_of_veterinary>Sophia Chuk</FIO_of_veterinary>
+		<diagnosis>healthy</diagnosis>
+	</pet>
+	<pet>
+		<name_of_an_animal>Anna</name_of_an_animal>
+		<date_of_birth>2013-03-24</date_of_birth>
+		<date_of_last_admission>2016-04-23</date_of_last_admission>
+		<FIO_of_veterinary>Sergei Huston</FIO_of_veterinary>
+		<diagnosis>insomnia</diagnosis>
+	</pet>
+	<pet>
+		<name_of_an_animal>Arielle</name_of_an_animal>
+		<date_of_birth>2014-10-22</date_of_birth>
+		<date_of_last_admission>2018-03-18</date_of_last_admission>
+		<FIO_of_veterinary>Beng Hung</FIO_of_veterinary>
+		<diagnosis>allergy</diagnosis>
+	</pet>
+	<pet>
+		<name_of_an_animal>Clark</name_of_an_animal>
+		<date_of_birth>2016-11-14</date_of_birth>
+		<date_of_last_admission>2018-06-13</date_of_last_admission>
+		<FIO_of_veterinary>Kul Ter</FIO_of_veterinary>
+		<diagnosis>allergy</diagnosis>
+	</pet>
+	<pet>
+		<name_of_an_animal>Bethany</name_of_an_animal>
+		<date_of_birth>2018-01-03</date_of_birth>
+		<date_of_last_admission>2019-01-04</date_of_last_admission>
+		<FIO_of_veterinary>Vera Sert</FIO_of_veterinary>
+		<diagnosis>healthy</diagnosis>
+	</pet>
+	<pet>
+		<name_of_an_animal>Cloverl</name_of_an_animal>
+		<date_of_birth>2016-03-26</date_of_birth>
+		<date_of_last_admission>2017-06-24</date_of_last_admission>
+		<FIO_of_veterinary>Alex Boston</FIO_of_veterinary>
+		<diagnosis>healthy</diagnosis>
+	</pet>
+	<pet>
+		<name_of_an_animal>Breena</name_of_an_animal>
+		<date_of_birth>2018-02-12</date_of_birth>
+		<date_of_last_admission>2019-09-14</date_of_last_admission>
+		<FIO_of_veterinary>Aleksei Klub</FIO_of_veterinary>
+		<diagnosis>allergy</diagnosis>
+	</pet>
+	<pet>
+		<name_of_an_animal>Bonnie</name_of_an_animal>
+		<date_of_birth>2020-01-10</date_of_birth>
+		<date_of_last_admission>2021-08-10</date_of_last_admission>
+		<FIO_of_veterinary>Vova Strong</FIO_of_veterinary>
+		<diagnosis>bronchitis</diagnosis>
+	</pet>
+	<pet>
+		<name_of_an_animal>Clementine</name_of_an_animal>
+		<date_of_birth>2020-12-15</date_of_birth>
+		<date_of_last_admission>2021-08-18</date_of_last_admission>
+		<FIO_of_veterinary>Nina Red</FIO_of_veterinary>
+		<diagnosis>bronchitis</diagnosis>
+	</pet>
+	<pet>
+		<name_of_an_animal>Emma</name_of_an_animal>
+		<date_of_birth>2017-04-05</date_of_birth>
+		<date_of_last_admission>2018-09-30</date_of_last_admission>
+		<FIO_of_veterinary>Lena Gut</FIO_of_veterinary>
+		<diagnosis>healthy</diagnosis>
+	</pet>
+	<pet>
+		<name_of_an_animal>Elisa</name_of_an_animal>
+		<date_of_birth>2021-08-14</date_of_birth>
+		<date_of_last_admission>2022-02-13</date_of_last_admission>
+		<FIO_of_veterinary>Stepan Club</FIO_of_veterinary>
+		<diagnosis>healthy</diagnosis>
+	</pet>
+	<pet>
+		<name_of_an_animal>Flower</name_of_an_animal>
+		<date_of_birth>2019-12-13</date_of_birth>
+		<date_of_last_admission>2020-12-14</date_of_last_admission>
+		<FIO_of_veterinary>Nik Lime</FIO_of_veterinary>
+		<diagnosis>healthy</diagnosis>
+	</pet>
+	<pet>
+		<name_of_an_animal>Diana</name_of_an_animal>
+		<date_of_birth>2019-05-06</date_of_birth>
+		<date_of_last_admission>2019-06-13</date_of_last_admission>
+		<FIO_of_veterinary>Stas Gans</FIO_of_veterinary>
+		<diagnosis>bronchitis</diagnosis>
+	</pet>
+	<pet>
+		<name_of_an_animal>Cleopatra</name_of_an_animal>
+		<date_of_birth>2020-08-13</date_of_birth>
+		<date_of_last_admission>2021-09-13</date_of_last_admission>
+		<FIO_of_veterinary>Oleg Zim</FIO_of_veterinary>
+		<diagnosis>allergy</diagnosis>
+	</pet>
+	<pet>
+		<name_of_an_animal>Isabelle</name_of_an_animal>
+		<date_of_birth>2019-05-20</date_of_birth>
+		<date_of_last_admission>2019-07-12</date_of_last_admission>
+		<FIO_of_veterinary>Olga Fort</FIO_of_veterinary>
+		<diagnosis>bronchitis</diagnosis>
+	</pet>
+	<pet>
+		<name_of_an_animal>Helga</name_of_an_animal>
+		<date_of_birth>2018-05-20</date_of_birth>
+		<date_of_last_admission>2018-07-28</date_of_last_admission>
+		<FIO_of_veterinary>Klim Cat</FIO_of_veterinary>
+		<diagnosis>healthy</diagnosis>
+	</pet>
+	<pet>
+		<name_of_an_animal>Florine</name_of_an_animal>
+		<date_of_birth>2016-09-11</date_of_birth>
+		<date_of_last_admission>2017-03-20</date_of_last_admission>
+		<FIO_of_veterinary>Nikolai Friend</FIO_of_veterinary>
+		<diagnosis>healthy</diagnosis>
+	</pet>
+	<pet>
+		<name_of_an_animal>Gwen</name_of_an_animal>
+		<date_of_birth>2009-04-22</date_of_birth>
+		<date_of_last_admission>2022-03-18</date_of_last_admission>
+		<FIO_of_veterinary>Sam Set</FIO_of_veterinary>
+		<diagnosis>healthy</diagnosis>
+	</pet>
+</pass_table>
