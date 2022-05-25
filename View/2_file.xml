@@ -351,24 +351,17 @@
       <diagnosis>healthy</diagnosis>
     </pet>
     <pet>
-      <name_of_an_animal>Sam</name_of_an_animal>
-      <date_of_birth>2010-04-05</date_of_birth>
-      <date_of_last_admission>2022-04-09</date_of_last_admission>
-      <FIO_of_veterinary>Sam Hansen</FIO_of_veterinary>
+      <name_of_an_animal>sam</name_of_an_animal>
+      <date_of_birth>2022-12-12</date_of_birth>
+      <date_of_last_admission>2022-12-13</date_of_last_admission>
+      <FIO_of_veterinary>Sam</FIO_of_veterinary>
       <diagnosis>healthy</diagnosis>
     </pet>
     <pet>
       <name_of_an_animal>Sam</name_of_an_animal>
-      <date_of_birth>2011-12-03</date_of_birth>
-      <date_of_last_admission>2022-04-04</date_of_last_admission>
-      <FIO_of_veterinary>Sam Fun</FIO_of_veterinary>
-      <diagnosis>healthy</diagnosis>
-    </pet>
-    <pet>
-      <name_of_an_animal>Dmitr</name_of_an_animal>
-      <date_of_birth>2022-04-05</date_of_birth>
-      <date_of_last_admission>2022-04-16</date_of_last_admission>
-      <FIO_of_veterinary>Alex Ren</FIO_of_veterinary>
+      <date_of_birth>2022-12-12</date_of_birth>
+      <date_of_last_admission>2012-12-12</date_of_last_admission>
+      <FIO_of_veterinary>Has</FIO_of_veterinary>
       <diagnosis>healthy</diagnosis>
     </pet>
   </pass_table>

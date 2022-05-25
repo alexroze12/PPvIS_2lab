@@ -1,0 +1,262 @@
+<?xml version="1.0" ?>
+  <pass_table>
+    <pet>
+      <name_of_an_animal>Neal</name_of_an_animal>
+      <date_of_birth>2015-03-18</date_of_birth>
+      <date_of_last_admission>2019-12-18</date_of_last_admission>
+      <FIO_of_veterinary>Katya Borodich</FIO_of_veterinary>
+      <diagnosis>bronchitis</diagnosis>
+    </pet>
+    <pet>
+      <name_of_an_animal>Oscar</name_of_an_animal>
+      <date_of_birth>2010-08-05</date_of_birth>
+      <date_of_last_admission>2018-02-02</date_of_last_admission>
+      <FIO_of_veterinary>Sergei Grey</FIO_of_veterinary>
+      <diagnosis>bronchitis</diagnosis>
+    </pet>
+    <pet>
+      <name_of_an_animal>Rufus</name_of_an_animal>
+      <date_of_birth>2021-06-23</date_of_birth>
+      <date_of_last_admission>2022-02-19</date_of_last_admission>
+      <FIO_of_veterinary>Bib Trey</FIO_of_veterinary>
+      <diagnosis>bronchitis</diagnosis>
+    </pet>
+    <pet>
+      <name_of_an_animal>Tucker</name_of_an_animal>
+      <date_of_birth>2020-11-12</date_of_birth>
+      <date_of_last_admission>2021-12-23</date_of_last_admission>
+      <FIO_of_veterinary>Denis Ivanov</FIO_of_veterinary>
+      <diagnosis>bronchitis</diagnosis>
+    </pet>
+    <pet>
+      <name_of_an_animal>Bonnie</name_of_an_animal>
+      <date_of_birth>2020-01-10</date_of_birth>
+      <date_of_last_admission>2021-08-10</date_of_last_admission>
+      <FIO_of_veterinary>Vova Strong</FIO_of_veterinary>
+      <diagnosis>bronchitis</diagnosis>
+    </pet>
+    <pet>
+      <name_of_an_animal>Clementine</name_of_an_animal>
+      <date_of_birth>2020-12-15</date_of_birth>
+      <date_of_last_admission>2021-08-18</date_of_last_admission>
+      <FIO_of_veterinary>Nina Red</FIO_of_veterinary>
+      <diagnosis>bronchitis</diagnosis>
+    </pet>
+    <pet>
+      <name_of_an_animal>Diana</name_of_an_animal>
+      <date_of_birth>2019-05-06</date_of_birth>
+      <date_of_last_admission>2019-06-13</date_of_last_admission>
+      <FIO_of_veterinary>Stas Gans</FIO_of_veterinary>
+      <diagnosis>bronchitis</diagnosis>
+    </pet>
+    <pet>
+      <name_of_an_animal>Isabelle</name_of_an_animal>
+      <date_of_birth>2019-05-20</date_of_birth>
+      <date_of_last_admission>2019-07-12</date_of_last_admission>
+      <FIO_of_veterinary>Olga Fort</FIO_of_veterinary>
+      <diagnosis>bronchitis</diagnosis>
+    </pet>
+    <pet>
+      <name_of_an_animal>Abigail</name_of_an_animal>
+      <date_of_birth>2018-10-14</date_of_birth>
+      <date_of_last_admission>2019-10-16</date_of_last_admission>
+      <FIO_of_veterinary>Stepan Muhin</FIO_of_veterinary>
+      <diagnosis>allergy</diagnosis>
+    </pet>
+    <pet>
+      <name_of_an_animal>Amelli</name_of_an_animal>
+      <date_of_birth>2020-06-29</date_of_birth>
+      <date_of_last_admission>2021-06-27</date_of_last_admission>
+      <FIO_of_veterinary>Kostya Klin</FIO_of_veterinary>
+      <diagnosis>healthy</diagnosis>
+    </pet>
+    <pet>
+      <name_of_an_animal>Ariena</name_of_an_animal>
+      <date_of_birth>2014-08-22</date_of_birth>
+      <date_of_last_admission>2017-11-27</date_of_last_admission>
+      <FIO_of_veterinary>Mihail Men</FIO_of_veterinary>
+      <diagnosis>healthy</diagnosis>
+    </pet>
+    <pet>
+      <name_of_an_animal>Cinnamon</name_of_an_animal>
+      <date_of_birth>2011-07-21</date_of_birth>
+      <date_of_last_admission>2016-08-02</date_of_last_admission>
+      <FIO_of_veterinary>Sophia Chuk</FIO_of_veterinary>
+      <diagnosis>healthy</diagnosis>
+    </pet>
+    <pet>
+      <name_of_an_animal>Arielle</name_of_an_animal>
+      <date_of_birth>2014-10-22</date_of_birth>
+      <date_of_last_admission>2018-03-18</date_of_last_admission>
+      <FIO_of_veterinary>Beng Hung</FIO_of_veterinary>
+      <diagnosis>allergy</diagnosis>
+    </pet>
+    <pet>
+      <name_of_an_animal>Clark</name_of_an_animal>
+      <date_of_birth>2016-11-14</date_of_birth>
+      <date_of_last_admission>2018-06-13</date_of_last_admission>
+      <FIO_of_veterinary>Kul Ter</FIO_of_veterinary>
+      <diagnosis>allergy</diagnosis>
+    </pet>
+    <pet>
+      <name_of_an_animal>Bethany</name_of_an_animal>
+      <date_of_birth>2018-01-03</date_of_birth>
+      <date_of_last_admission>2019-01-04</date_of_last_admission>
+      <FIO_of_veterinary>Vera Sert</FIO_of_veterinary>
+      <diagnosis>healthy</diagnosis>
+    </pet>
+    <pet>
+      <name_of_an_animal>Cloverl</name_of_an_animal>
+      <date_of_birth>2016-03-26</date_of_birth>
+      <date_of_last_admission>2017-06-24</date_of_last_admission>
+      <FIO_of_veterinary>Alex Boston</FIO_of_veterinary>
+      <diagnosis>healthy</diagnosis>
+    </pet>
+    <pet>
+      <name_of_an_animal>Breena</name_of_an_animal>
+      <date_of_birth>2018-02-12</date_of_birth>
+      <date_of_last_admission>2019-09-14</date_of_last_admission>
+      <FIO_of_veterinary>Aleksei Klub</FIO_of_veterinary>
+      <diagnosis>allergy</diagnosis>
+    </pet>
+    <pet>
+      <name_of_an_animal>Neal</name_of_an_animal>
+      <date_of_birth>2015-03-18</date_of_birth>
+      <date_of_last_admission>2019-12-18</date_of_last_admission>
+      <FIO_of_veterinary>Katya Borodich</FIO_of_veterinary>
+      <diagnosis>bronchitis</diagnosis>
+    </pet>
+    <pet>
+      <name_of_an_animal>Oscar</name_of_an_animal>
+      <date_of_birth>2010-08-05</date_of_birth>
+      <date_of_last_admission>2018-02-02</date_of_last_admission>
+      <FIO_of_veterinary>Sergei Grey</FIO_of_veterinary>
+      <diagnosis>bronchitis</diagnosis>
+    </pet>
+    <pet>
+      <name_of_an_animal>Rufus</name_of_an_animal>
+      <date_of_birth>2021-06-23</date_of_birth>
+      <date_of_last_admission>2022-02-19</date_of_last_admission>
+      <FIO_of_veterinary>Bib Trey</FIO_of_veterinary>
+      <diagnosis>bronchitis</diagnosis>
+    </pet>
+    <pet>
+      <name_of_an_animal>Tucker</name_of_an_animal>
+      <date_of_birth>2020-11-12</date_of_birth>
+      <date_of_last_admission>2021-12-23</date_of_last_admission>
+      <FIO_of_veterinary>Denis Ivanov</FIO_of_veterinary>
+      <diagnosis>bronchitis</diagnosis>
+    </pet>
+    <pet>
+      <name_of_an_animal>Bonnie</name_of_an_animal>
+      <date_of_birth>2020-01-10</date_of_birth>
+      <date_of_last_admission>2021-08-10</date_of_last_admission>
+      <FIO_of_veterinary>Vova Strong</FIO_of_veterinary>
+      <diagnosis>bronchitis</diagnosis>
+    </pet>
+    <pet>
+      <name_of_an_animal>Clementine</name_of_an_animal>
+      <date_of_birth>2020-12-15</date_of_birth>
+      <date_of_last_admission>2021-08-18</date_of_last_admission>
+      <FIO_of_veterinary>Nina Red</FIO_of_veterinary>
+      <diagnosis>bronchitis</diagnosis>
+    </pet>
+    <pet>
+      <name_of_an_animal>Diana</name_of_an_animal>
+      <date_of_birth>2019-05-06</date_of_birth>
+      <date_of_last_admission>2019-06-13</date_of_last_admission>
+      <FIO_of_veterinary>Stas Gans</FIO_of_veterinary>
+      <diagnosis>bronchitis</diagnosis>
+    </pet>
+    <pet>
+      <name_of_an_animal>Isabelle</name_of_an_animal>
+      <date_of_birth>2019-05-20</date_of_birth>
+      <date_of_last_admission>2019-07-12</date_of_last_admission>
+      <FIO_of_veterinary>Olga Fort</FIO_of_veterinary>
+      <diagnosis>bronchitis</diagnosis>
+    </pet>
+    <pet>
+      <name_of_an_animal>Abigail</name_of_an_animal>
+      <date_of_birth>2018-10-14</date_of_birth>
+      <date_of_last_admission>2019-10-16</date_of_last_admission>
+      <FIO_of_veterinary>Stepan Muhin</FIO_of_veterinary>
+      <diagnosis>allergy</diagnosis>
+    </pet>
+    <pet>
+      <name_of_an_animal>Amelli</name_of_an_animal>
+      <date_of_birth>2020-06-29</date_of_birth>
+      <date_of_last_admission>2021-06-27</date_of_last_admission>
+      <FIO_of_veterinary>Kostya Klin</FIO_of_veterinary>
+      <diagnosis>healthy</diagnosis>
+    </pet>
+    <pet>
+      <name_of_an_animal>Tucker</name_of_an_animal>
+      <date_of_birth>2020-11-12</date_of_birth>
+      <date_of_last_admission>2021-12-23</date_of_last_admission>
+      <FIO_of_veterinary>Denis Ivanov</FIO_of_veterinary>
+      <diagnosis>bronchitis</diagnosis>
+    </pet>
+    <pet>
+      <name_of_an_animal>Bonnie</name_of_an_animal>
+      <date_of_birth>2020-01-10</date_of_birth>
+      <date_of_last_admission>2021-08-10</date_of_last_admission>
+      <FIO_of_veterinary>Vova Strong</FIO_of_veterinary>
+      <diagnosis>bronchitis</diagnosis>
+    </pet>
+    <pet>
+      <name_of_an_animal>Clementine</name_of_an_animal>
+      <date_of_birth>2020-12-15</date_of_birth>
+      <date_of_last_admission>2021-08-18</date_of_last_admission>
+      <FIO_of_veterinary>Nina Red</FIO_of_veterinary>
+      <diagnosis>bronchitis</diagnosis>
+    </pet>
+    <pet>
+      <name_of_an_animal>Diana</name_of_an_animal>
+      <date_of_birth>2019-05-06</date_of_birth>
+      <date_of_last_admission>2019-06-13</date_of_last_admission>
+      <FIO_of_veterinary>Stas Gans</FIO_of_veterinary>
+      <diagnosis>bronchitis</diagnosis>
+    </pet>
+    <pet>
+      <name_of_an_animal>Isabelle</name_of_an_animal>
+      <date_of_birth>2019-05-20</date_of_birth>
+      <date_of_last_admission>2019-07-12</date_of_last_admission>
+      <FIO_of_veterinary>Olga Fort</FIO_of_veterinary>
+      <diagnosis>bronchitis</diagnosis>
+    </pet>
+    <pet>
+      <name_of_an_animal>Abigail</name_of_an_animal>
+      <date_of_birth>2018-10-14</date_of_birth>
+      <date_of_last_admission>2019-10-16</date_of_last_admission>
+      <FIO_of_veterinary>Stepan Muhin</FIO_of_veterinary>
+      <diagnosis>allergy</diagnosis>
+    </pet>
+    <pet>
+      <name_of_an_animal>Amelli</name_of_an_animal>
+      <date_of_birth>2020-06-29</date_of_birth>
+      <date_of_last_admission>2021-06-27</date_of_last_admission>
+      <FIO_of_veterinary>Kostya Klin</FIO_of_veterinary>
+      <diagnosis>healthy</diagnosis>
+    </pet>
+    <pet>
+      <name_of_an_animal>Ariena</name_of_an_animal>
+      <date_of_birth>2014-08-22</date_of_birth>
+      <date_of_last_admission>2017-11-27</date_of_last_admission>
+      <FIO_of_veterinary>Mihail Men</FIO_of_veterinary>
+      <diagnosis>healthy</diagnosis>
+    </pet>
+    <pet>
+      <name_of_an_animal>Cinnamon</name_of_an_animal>
+      <date_of_birth>2011-07-21</date_of_birth>
+      <date_of_last_admission>2016-08-02</date_of_last_admission>
+      <FIO_of_veterinary>Sophia Chuk</FIO_of_veterinary>
+      <diagnosis>healthy</diagnosis>
+    </pet>
+    <pet>
+      <name_of_an_animal>Arielle</name_of_an_animal>
+      <date_of_birth>2014-10-22</date_of_birth>
+      <date_of_last_admission>2018-03-18</date_of_last_admission>
+      <FIO_of_veterinary>Beng Hung</FIO_of_veterinary>
+      <diagnosis>allergy</diagnosis>
+    </pet>
+  </pass_table>

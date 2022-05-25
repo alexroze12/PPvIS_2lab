@@ -1,4 +1,3 @@
-import xml.dom.minidom
 from xml.dom import minidom
 
 

@@ -49,4 +49,3 @@ class SaxReader(xml.sax.ContentHandler):
             self.pet_data = []
 
         self.current = ""
-
