@@ -1,20 +1,15 @@
 import os
 import re
-
 from kivy.lang import Builder
 from kivy.metrics import dp
 from kivy.uix.anchorlayout import AnchorLayout
-from kivy.uix.button import Button
 from kivy.uix.screenmanager import ScreenManager, Screen
 from kivymd.app import MDApp
 from kivymd.uix.datatables import MDDataTable
-
 from Controller.controller import Controller
 from Controller.controller import create_new_empty_file
 from Controller.controller import read_information
 from Controller.controller import write_information_to_file
-from Model.model import MenuScreenModel
-
 Builder.load_file(os.path.join(os.path.dirname(__file__), "my_screen.kv"))
 
 
@@ -140,10 +135,10 @@ class SearchMenu(AddMenuFirst, Screen):
             ]
         )
         Controller(self.datatable).search(self.data_table, [self.ids.search_pets_name.text,
-                                                                             self.ids.search_date_of_birth.text,
-                                                                             self.ids.search_last_visit.text,
-                                                                             self.ids.search_vets_name.text,
-                                                                             self.ids.search_diagnosis.text])
+                                                            self.ids.search_date_of_birth.text,
+                                                            self.ids.search_last_visit.text,
+                                                            self.ids.search_vets_name.text,
+                                                            self.ids.search_diagnosis.text])
         s.add_widget(self.data_table)
         self.add_widget(s)
 
@@ -158,6 +153,3 @@ class BuildScreen(MDApp):
         sm.add_widget(SearchMenu(name="search"))
         sm.add_widget(DeleteMenu(name="delete"))
         return sm
-
-
-BuildScreen().run()
